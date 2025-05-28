@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi Im Abdulqadir , Currently Studying Computer Science at Brunel University, Interested in DevOps space currently learning new tools, doing projects, debugging and more debugging... 
+
+# ✋ Hi im Abdulqadir:
+
+Currently Studying Computer Science at Brunel University, Interested in DevOps space currently learning new tools, doing projects, debugging and more debugging... 
 
 
 ## 🌐 Socials:
